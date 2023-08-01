@@ -252,9 +252,10 @@ color: #ECEBEB;
 	padding-bottom: 50px;
 	color: #f8f8f8;
 	background: url(../img/intro/mike-benna-kX012NDcCKQ-unsplash.jpg) no-repeat center center;
-	background-size: cover;
+	background-size: 50% auto; /* Adjust the size of the background image, "cover" by default */
 	text-align: center;
 }
+
 
 .intro-caption {
 	position: absolute;
